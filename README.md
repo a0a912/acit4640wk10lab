@@ -1,3 +1,3 @@
 # 4640-w10-lab-start-w25
 
-See lab instructions on D2L
+# Completed by Ahmed Ali, Kevin Ding, Hanan Kakooza
